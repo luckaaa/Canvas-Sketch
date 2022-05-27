@@ -8,7 +8,6 @@ const settings = {
 };
 
 const animate = () => {
-	console.log('domestika');
 	requestAnimationFrame(animate);
 };
 // animate();
